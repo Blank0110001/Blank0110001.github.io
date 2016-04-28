@@ -1,0 +1,3 @@
+var padding right  = 100px 
+var padding left = 100px 
+var canvas id ="myCanvas" width=800px  height=800px 
