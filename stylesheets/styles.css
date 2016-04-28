@@ -849,3 +849,7 @@ section #title .credits.right {
     display: none;
   }
 }
+p {
+  padding:100px,200px,100px,200px;
+}
+}
